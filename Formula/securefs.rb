@@ -2,8 +2,8 @@ class Securefs < Formula
   desc "Filesystem with transparent authenticated encryption"
   homepage "https://github.com/netheril96/securefs"
   url "https://github.com/netheril96/securefs.git",
-      tag:      "0.11.1",
-      revision: "dfeebf8406871d020848edde668234715356158c"
+      tag:      "0.12.0",
+      revision: "a4972834d93e89117e67dae58998f10f8a7c0fbb"
   license "MIT"
   head "https://github.com/netheril96/securefs.git", branch: "master"
 
